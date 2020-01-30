@@ -1,0 +1,16 @@
+git
+https://backlog.com/ja/git-tutorial/
+  
+node.js
+https://phiary.me/node-js-package-manager-npm-usage/
+
+
+gulp
+https://mae.chab.in/archives/2545
+https://www.cnblogs.com/weichao1996/p/8620652.html
+https://qiita.com/mino0123/items/4c5d641c9f25a2875368
+https://www.tweeeety.blog/entry/2018/05/29/164908
+https://app.codegrid.net/entry/gulp-1
+
+
+
